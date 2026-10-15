@@ -7,6 +7,13 @@ Objectives:
 
 Take note that RDS needs a subnet group.
 
+Things that can be learnt:
+- Usage of outputs and using them in other modules
+- Creation of postgres db aurora
+- Basic VPC setup
+
+Improvements:
+- Setup ACL for VPC subnets
 
 ## Commands
 - terraform init -backend-config=backend.tfvars
